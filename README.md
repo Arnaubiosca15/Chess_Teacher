@@ -11,7 +11,8 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 ## Features
 
-* TODO
+* To run use:
+uv run python -m chess_teacher.ui.gui
 
 ## Credits
 
